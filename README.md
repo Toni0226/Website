@@ -1,10 +1,5 @@
 # Social Media Website Project
 
-
-## Description
-
-In today's digital era, social media systems serve as a crucial platform for communication and information sharing, drawing significant attention to their design and development. Traditional social media system development often faces challenges such as code maintainability and reusability. However, technologies like React and Node.js can optimize the development process by enabling component-based development and offering a richer ecosystem, thereby providing robust support for both frontend and backend development. This project aims to explore how to design and implement a user-friendly social media system using Node.js and React, focusing on creating an environment conducive to sharing updates online.
-
 ## Key Features
 
 - **User Authentication**: Secure login and registration.
